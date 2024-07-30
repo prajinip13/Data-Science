@@ -1,5 +1,4 @@
-
-![image](https://github.com/user-attachments/assets/53e6ed3b-2901-4bcd-bacc-d923e90f8bf6)
+Diabetes Prediction
 
 
 The aim of this project to analyze the medical factors of a patient such as Glucose Level,Blood Pressure, 
