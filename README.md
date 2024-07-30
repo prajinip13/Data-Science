@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e625e2e0-5e23-473d-ac30-ab8fde41ecbe)Diabetes Prediction
+Diabetes Prediction
 
 The aim of this project to analyze the medical factors of a patient such as Glucose Level,Blood Pressure, 
 Skin Thickness, Insulin Level and many others to predict whether the patient has diabetes or not.
